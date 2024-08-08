@@ -14,18 +14,19 @@ The primary objective of this project is to build a machine learning model that 
 
   Libraries Used:
   
-      pandas for data manipulation and analysis
+      pandas: for data manipulation and analysis
       
-      numpy for numerical operations
+      numpy: for numerical operations
       
-      scikit-learn for building and evaluating the Random Forest Regressor model
+      scikit-learn: for building and evaluating the Random Forest Regressor model
       
-      matplotlib and seaborn for data visualization
+      matplotlib and seaborn: for data visualization
       
-      Jupyter Notebook for development and presentation
+      Jupyter Notebook: for development and presentation
       
 
 **Steps Involved**
+
   Data Collection: Acquired historical sales data and relevant features.
   
   Data Preprocessing: Cleaned and prepared the data for analysis, including handling missing values, encoding categorical variables, and feature scaling.
@@ -45,4 +46,5 @@ Model Performance:
   Root Mean Squared Error (RMSE): 1620186.069956401
 
 **Acknowledgements**
+
 I would like to express my gratitude to the YBI Foundation for providing me with the opportunity to work on this project and for their continuous support and guidance throughout the internship.
